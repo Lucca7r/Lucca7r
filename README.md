@@ -1,5 +1,5 @@
 ### Wellcome to my world 👋
-- 🌱 Estudante de Sitemas de Informação
+- 🌱 Estudante de Sistemas de Informação
 ##
 <div align="center">
   <a href="https://lucca7r.github.io/Copa/">
