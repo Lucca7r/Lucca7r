@@ -3,7 +3,7 @@
 
 - Faço parte do projeto empresa júnior 7sight onde consigo desenvolver na pratica minhas soft skills com o dia a dia com os clientes e também minhas hard skills no desenvolvimento de site, aprimorando minha logica de programação e me aprofundando nas linguagens utilizadas.
 
-🚀 Real Life Experience:
+🚀 Real Life Experience: <br>
   • crie um Web links para facilitar o dia a dia com o cliente na empresa onde trabalho
   • Participei do projeto de construção de web site do zero para empresa junior 
 ##
