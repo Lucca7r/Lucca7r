@@ -1,7 +1,7 @@
 ### Wellcome to my world 👋
 - 🌱 Information Systems Student
 
-- 💻 Faço parte do projeto empresa júnior 7sight onde consigo desenvolver na pratica minhas soft skills com o dia a dia com os clientes e também minhas hard skills no desenvolvimento de site, aprimorando minha logica de programação e me aprofundando nas linguagens utilizadas.
+- 💻 Faço parte do projeto empresa júnior <strong>7sight</strong>.
 
 🚀 Real Life Experience: <br>
 - Crie um Web links para facilitar o dia a dia com o cliente na empresa onde trabalho <br>
