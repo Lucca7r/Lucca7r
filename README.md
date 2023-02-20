@@ -3,7 +3,7 @@
 
 - 💻 Faço parte do projeto empresa júnior <strong>7sight</strong>.
 
-🚀 Real Life Experience: <br>
+🚀 <strong>Real Life Experience:<br></strong>
 - Crie um Web links para facilitar o dia a dia com o cliente na empresa onde trabalho <br>
 - Participei do projeto de construção de web site do zero para empresa junior 
 ##
