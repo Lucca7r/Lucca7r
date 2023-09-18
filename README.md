@@ -1,7 +1,7 @@
 ### Wellcome to my world 👋
 - 🌱 Information Systems Student
 
-- 💻 Analsita de sistema na <strong>VIVO</strong>.
+- 💻 Analista de sistema na <strong>VIVO</strong>.
 
 🚀 <strong>Real Life Experience:</strong>
 - Crie um Web links para facilitar o dia a dia com o cliente na empresa onde trabalho, tornando a experiencia de centanas de clientes diariamente melhor <br>
