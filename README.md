@@ -1,7 +1,7 @@
 ### Wellcome to my world 👋
 - 🌱 Information Systems Student
 
-- 💻 Faço parte do projeto empresa júnior <strong>7sight</strong>.
+- 💻 Analsita de sistema na <strong>VIVO</strong>.
 
 🚀 <strong>Real Life Experience:</strong>
 - Crie um Web links para facilitar o dia a dia com o cliente na empresa onde trabalho, tornando a experiencia de centanas de clientes diariamente melhor <br>
