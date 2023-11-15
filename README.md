@@ -4,7 +4,7 @@
 - 💻 Analista de sistema na <strong>VIVO</strong>.
 
 🚀 <strong>Real Life Experience:</strong>
-- Crie um Web links para facilitar o dia a dia com o cliente na empresa onde trabalho, tornando a experiencia de centanas de clientes diariamente melhor <br>
+- Crie um Web links para facilitar o dia a dia com o cliente na empresa onde trabalhava, tornando a experiencia de centanas de clientes diariamente melhor <br>
 - Participei do projeto de construção de web site do zero para empresa junior 
 ##
 <div align="center">
