@@ -1,5 +1,5 @@
 ### Wellcome to my world 👋
-- 🌱 Information Systems Student
+- 👾 Information Systems Student
 
 - 💻 Analista de dados na <strong>VIVO</strong>.
 
