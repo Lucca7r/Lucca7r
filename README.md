@@ -1,4 +1,4 @@
-### Wellcome to my world 👋
+### Welcome to my world 👋
 - 👾Estudante de sistemas de informação
 
 - 💻 Analista de dados na <strong>VIVO</strong>.
