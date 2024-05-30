@@ -25,6 +25,11 @@
   <img height="50rem" src="https://github.com/Lucca7r/portfolioLucca/blob/main/data/imgs/postgresql.png"/>  
   <img height="50rem" src="https://github.com/Lucca7r/portfolioLucca/blob/main/data/imgs/python.png"/>
   <img height="50rem" src="https://github.com/Lucca7r/portfolioLucca/blob/main/data/imgs/react.png"/>
+  <img height="50rem" src="https://github.com/Lucca7r/portfolioLucca/blob/main/data/imgs/New_Power_BI_Logo.svg.png"/>
+  <img height="50rem" src="https://github.com/Lucca7r/portfolioLucca/blob/main/data/imgs/oracledata.png"/> 
+  <img height="50rem" src="https://github.com/Lucca7r/portfolioLucca/blob/main/data/imgs/machine.png"/>
+  <img height="50rem" src="https://github.com/Lucca7r/portfolioLucca/blob/main/data/imgs/apachewhite.png"/>
+    
 </div>
 
 ##
