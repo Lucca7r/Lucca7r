@@ -15,6 +15,19 @@
 </div>
 
 ##
+
+  <div align="center">
+  <img height="50rem" src="https://github.com/Lucca7r/portfolioLucca/blob/main/data/imgs/docker.png"/>
+  <img height="50rem" src="https://github.com/Lucca7r/portfolioLucca/blob/main/data/imgs/git.png"/>
+  <img height="50rem" src="https://github.com/Lucca7r/portfolioLucca/blob/main/data/imgs/java.png"/> 
+  <img height="50rem" src="https://github.com/Lucca7r/portfolioLucca/blob/main/data/imgs/js.png"/>
+  <img height="50rem" src="https://github.com/Lucca7r/portfolioLucca/blob/main/data/imgs/nodejs.png"/>
+  <img height="50rem" src="https://github.com/Lucca7r/portfolioLucca/blob/main/data/imgs/postgresql.png"/>  
+  <img height="50rem" src="https://github.com/Lucca7r/portfolioLucca/blob/main/data/imgs/python.png"/>
+  <img height="50rem" src="https://github.com/Lucca7r/portfolioLucca/blob/main/data/imgs/react.png"/>
+</div>
+
+##
  <div align="center">
   <a href="https://www.instagram.com/lucca7r_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://twitter.com/lucca01silva/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
