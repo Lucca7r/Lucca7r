@@ -8,29 +8,58 @@
 - Criei um Web links para facilitar o dia a dia com o cliente na empresa onde trabalhava, tornando a experiencia de centanas de clientes diariamente melhor (repositorio disponivel) <br>
 - Participei do projeto de construção de web site do zero para empresa junior 
 ##
-<div align="center">
-  <a href="">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucca7r&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucca7r&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucca7r&theme=radical&count_private=true" />
+</p>
+
+<p>
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucca7r&theme=radical&count_private=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucca7r&theme=radical)
+
+</p>
+
+<br/><br/>
+
+
+# <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Technologies That I Know
+
+
+<table align="center"><tr><td valign="top" width="33%">
+
+### <div align="center"> Frontend </div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,react,ts,tailwind&theme=dark&perline=3" />
+</p>
+
+</td><td valign="top" width="33%">
+
+### <div align="center"> Backend </div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,mongodb,py,postgres&theme=dark&perline=3" />
+</p>
+
+</td><td valign="top" width="33%">
+
+### <div align="center"> Tools </div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=azure,figma,github,git,docker,ai&theme=dark&perline=3" />
+</p>
+
+</td></tr></table>
+<br/><br/>
+
 
 ##
 
-  <div align="center">
-  <img height="50rem" src="https://github.com/Lucca7r/portfolioLucca/blob/main/data/imgs/docker.png"/>
-  <img height="50rem" src="https://github.com/Lucca7r/portfolioLucca/blob/main/data/imgs/git.png"/>
-  <img height="50rem" src="https://github.com/Lucca7r/portfolioLucca/blob/main/data/imgs/java.png"/> 
-  <img height="50rem" src="https://github.com/Lucca7r/portfolioLucca/blob/main/data/imgs/js.png"/>
-  <img height="50rem" src="https://github.com/Lucca7r/portfolioLucca/blob/main/data/imgs/nodejs.png"/>
-  <img height="50rem" src="https://github.com/Lucca7r/portfolioLucca/blob/main/data/imgs/postgresql.png"/>  
-  <img height="50rem" src="https://github.com/Lucca7r/portfolioLucca/blob/main/data/imgs/python.png"/>
-  <img height="50rem" src="https://github.com/Lucca7r/portfolioLucca/blob/main/data/imgs/react.png"/>
-  <img height="50rem" src="https://github.com/Lucca7r/portfolioLucca/blob/main/data/imgs/New_Power_BI_Logo.svg.png"/>
-  <img height="50rem" src="https://github.com/Lucca7r/portfolioLucca/blob/main/data/imgs/oracledata.png"/> 
-  <img height="50rem" src="https://github.com/Lucca7r/portfolioLucca/blob/main/data/imgs/machine.png"/>
-  <img height="50rem" src="https://github.com/Lucca7r/portfolioLucca/blob/main/data/imgs/apachewhite.png"/>
-    
-</div>
+![snake gif](https://github.com/Lucca7r/Lucca7r/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 ##
  <div align="center">
@@ -40,4 +69,3 @@
   <a href="https://www.linkedin.com/in/lucas-rsilva0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    
   
-![snake gif](https://github.com/Lucca7r/Lucca7r/blob/output/github-contribution-grid-snake-dark.svg)
