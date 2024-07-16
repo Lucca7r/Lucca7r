@@ -5,7 +5,7 @@
 
 🚀 <strong>Real Life Experience:</strong>
 - Atualmente trabalho criando analise de qualidade e inteligencia comercial gerando impactos positivos em toda a região centro-oesto do brasil
-- Criei um Web links para facilitar o dia a dia com o cliente na empresa onde trabalhava, tornando a experiencia de centanas de clientes diariamente melhor (repositorio disponivel) <br>
+- Criei um Web links para facilitar o dia a dia com o cliente na empresa onde trabalhava, tornando a experiencia de centanas de clientes diariamente melhor <br>
 - Participei do projeto de construção de web site do zero para empresa junior 
 ##
 
