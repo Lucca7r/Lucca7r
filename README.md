@@ -12,14 +12,12 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucca7r&theme=radical&count_private=true" />
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucca7r&theme=vision_friendly_dark&count_private=true" />
+
 </p>
-
-<p>
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucca7r&theme=radical&count_private=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucca7r&theme=radical)
-
+<p display="flex" align="center">
+<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucca7r&theme=vision_friendly_dark&count_private=true">
+<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucca7r&theme=vision_friendly_dark&count_private=true">
 </p>
 
 <br/><br/>
