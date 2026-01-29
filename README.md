@@ -1,5 +1,5 @@
 ### Welcome to my world 👋
-- 👾Estudante de sistemas de informação
+- 👾Bacharel em sistemas de informação
 
 - 💻 Engenheiro De Dados na <strong>NTT DATA</strong>.
 
