@@ -1,7 +1,7 @@
 ### Welcome to my world 👋
 - 👾Estudante de sistemas de informação
 
-- 💻 Analista de dados na <strong>Telefonica Brasil</strong>.
+- 💻 Analista de dados na <strong>NTT DATA</strong>.
 
 🚀 <strong>Real Life Experience:</strong>
 - Atualmente trabalho criando analise de qualidade e inteligencia comercial gerando impactos positivos em toda a região centro-oesto do brasil
