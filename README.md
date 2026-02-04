@@ -4,7 +4,7 @@
 - 💻 Engenheiro De Dados na <strong>NTT DATA</strong>.
 
 🚀 <strong>Real Life Experience:</strong>
-- Atualmente trabalho criando analise de qualidade e inteligencia comercial gerando impactos positivos em toda a região centro-oesto do brasil
+- Experiência criando analise de qualidade e inteligencia comercial gerando impactos positivos em todo o brasil
 - Criei um Web links para facilitar o dia a dia com o cliente na empresa onde trabalhava, tornando a experiencia de centanas de clientes diariamente melhor <br>
 - Participei do projeto de construção de web site do zero para empresa junior 
 ##
