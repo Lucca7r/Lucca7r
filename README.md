@@ -41,12 +41,12 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,java,mongodb,py,postgres&theme=dark&perline=3" />
 </p>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="40%">
 
 ### <div align="center"> Tools </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=azure,figma,githubactions,git,docker,ai&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=azure,aws,githubactions,git,docker,terraform&theme=dark&perline=3" />
 </p>
 
 </td></tr></table>
