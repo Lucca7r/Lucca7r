@@ -54,9 +54,7 @@
 
 
 ##
-
-![snake gif](https://github.com/Lucca7r/Lucca7r/blob/output/github-contribution-grid-snake-dark.svg)
-
+![Space Shooter](https://raw.githubusercontent.com/lucca7r/lucca7r/output/github-contribution-grid-snake.gif)
 
 ##
  <div align="center">
