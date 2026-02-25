@@ -54,7 +54,7 @@
 
 
 ##
-![Space Shooter](https://raw.githubusercontent.com/lucca7r/lucca7r/output/github-contribution-grid-snake.gif)
+![Space Shooter](https://raw.githubusercontent.com/lucca7r/lucca7r/output/gh-space-shooter.gif)
 
 ##
  <div align="center">
