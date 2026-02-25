@@ -22,10 +22,11 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           strategy: random 
 
-      - name: Push to output branch
+      - name: Push space-shooter to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: .
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
