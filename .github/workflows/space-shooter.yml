@@ -20,7 +20,7 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           strategy: random
-          # ISSO AQUI impede que ele jogue o arquivo na branch main:
+          # O SEGREDO ESTÁ AQUI: Isso impede que a action salve na main
           commit-message: "skip" 
 
       - name: Push to output branch
@@ -28,7 +28,7 @@ jobs:
         with:
           target_branch: output
           build_dir: .
-          # Garante que ele pegue apenas o arquivo .gif gerado
-          fqdn: "" 
+          # Isso garante que ele não tente deletar a branch antes de subir
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
