@@ -1,11 +1,8 @@
 name: Generate Space Shooter
 
 on:
-  # Executa automaticamente a cada 24 horas
   schedule:
     - cron: "0 0 * * *"
-  
-  # Permite que você rode manualmente para testar
   workflow_dispatch:
 
 jobs:
@@ -15,16 +12,13 @@ jobs:
       contents: write
     
     steps:
-      # Gera o GIF do jogo baseado nas suas contribuições
-      - name: generate-gh-space-shooter-gif
-        uses: czl9707/gh-space-shooter@v1.2.0
+      - name: Generate Space Shooter GIF
+        uses: czl9707/gh-space-shooter@main 
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          # Opções de estratégia: random, row, ou column
           strategy: random 
 
-      # Pega o arquivo gerado e envia para uma branch chamada 'output'
-      - name: push space-shooter-gif to the output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
