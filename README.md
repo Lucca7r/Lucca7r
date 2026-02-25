@@ -54,7 +54,9 @@
 
 
 ##
-![Space Shooter](https://raw.githubusercontent.com/lucca7r/lucca7r/output/space-shooter.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lucca7r/lucca7r/output/gh-space-shooter.gif" alt="Space Shooter">
+</p>
 
 ##
  <div align="center">
