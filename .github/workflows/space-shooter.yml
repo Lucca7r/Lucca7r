@@ -12,7 +12,6 @@ jobs:
       contents: write
     
     steps:
-      
       - name: Checkout Repository
         uses: actions/checkout@v4
 
@@ -20,13 +19,16 @@ jobs:
         uses: czl9707/gh-space-shooter@main
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          strategy: random 
+          strategy: random
+          # ISSO AQUI impede que ele jogue o arquivo na branch main:
+          commit-message: "skip" 
 
-      - name: Push space-shooter to output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: .
-          keep_history: true
+          # Garante que ele pegue apenas o arquivo .gif gerado
+          fqdn: "" 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
