@@ -12,8 +12,12 @@ jobs:
       contents: write
     
     steps:
+      
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
       - name: Generate Space Shooter GIF
-        uses: czl9707/gh-space-shooter@main 
+        uses: czl9707/gh-space-shooter@main
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           strategy: random 
@@ -22,6 +26,6 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: . 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
