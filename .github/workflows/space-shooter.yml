@@ -15,7 +15,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      
+      # Cria a pasta para garantir que o arquivo tenha um destino
       - name: Create dist directory
         run: mkdir -p dist
 
@@ -24,16 +24,14 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           strategy: random
-         
           output-path: dist/gh-space-shooter.gif
-         
-          commit-message: "" 
+          # AQUI ESTÁ A CHAVE: "skip" faz a action ignorar o commit interno
+          commit-message: "skip"
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: dist 
-          publish_dir: ./dist
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
